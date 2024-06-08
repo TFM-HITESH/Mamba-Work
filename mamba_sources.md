@@ -22,10 +22,6 @@
   - [ Books](#head20)
   - [ Codes](#head21)
   - [Other Awesome Mamba List](#head22)
-- [ Contributions](#head23)
-  - [Contribute in 3 Steps](#head24)
-  - [ Guidelines](#head25)
-- [ Acknowledgement](#head26)
 
 <span id="head2"></span>
 ##  Papers
